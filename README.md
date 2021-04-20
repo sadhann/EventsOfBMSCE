@@ -1,7 +1,7 @@
 # Events Application for College
 
 Website development for “Event Management”
-This online submission system supports following users
+This online submission system supports following users:
 a. Administrators (event coordinators)
 b. Event attendees/ participants
 ![image](https://user-images.githubusercontent.com/77098641/115434239-19308800-a226-11eb-8087-c18d86c29456.png)
