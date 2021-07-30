@@ -1,4 +1,4 @@
-# Events Application for College
+# Events Application  
 https://eventsofbmsce.web.app/
 
 Website development for “Event Management”
